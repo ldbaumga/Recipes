@@ -2,6 +2,6 @@ Source: Jujumao on instagram/youtube
 https://www.youtube.com/shorts/3ynoK061yT4
 
 
-![[Screenshot_20250613-002327.png]]![[Screenshot_20250613-002338.png]]
-![[Screenshot_20250613-002344.png]]
-![[Screenshot_20250613-002352.png]]
+![[Hot & Sour Soup no. 1.png]]![[Hot & Sour Soup no. 2.png]]
+![[Hot & Sour Soup no. 3.png]]
+![[Hot & Sour Soup no. 4.png]]
