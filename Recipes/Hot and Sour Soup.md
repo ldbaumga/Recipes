@@ -2,7 +2,7 @@
 aliases:
 author: Jujumao
 source: https://www.youtube.com/shorts/3ynoK061yT4
-tags:
+tags: Pork, Chineese, Soup
 ---
 ### Hot and Sour Soup
 
@@ -32,6 +32,7 @@ tags:
 ---
 ### Intro
 
+Ep 2. of 'Soups so Good it can Cure Any Sickness'
 
 ---
 ### Directions
