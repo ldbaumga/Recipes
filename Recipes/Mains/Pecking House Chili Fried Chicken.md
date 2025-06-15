@@ -2,7 +2,7 @@
 aliases: 
 author: Erik Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-Pairings:
+pairings:
   - "[[Pecking House Green Garlic Ranch]]"
   - "[[Pecking House Chili Paste]]"
 tags:

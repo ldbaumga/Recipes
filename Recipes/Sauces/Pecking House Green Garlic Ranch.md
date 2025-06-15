@@ -2,7 +2,7 @@
 aliases: 
 author: Eric Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-Pairings:
+pairings:
 tags:
   - Sauces
   - Pecking House

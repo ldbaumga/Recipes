@@ -2,7 +2,7 @@
 aliases:
 author: Jujumao
 source: https://www.youtube.com/shorts/3ynoK061yT4
-Pairings:
+pairings:
 tags: 
   - Pork
   - Chineese
