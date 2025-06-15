@@ -2,7 +2,7 @@
 aliases: 
 author: Eric Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-tags: Sauces, Pecking House
+tags: Sauces, Pecking House, New
 ---
 ### Pecking House Green Garlic Ranch
 

@@ -2,7 +2,7 @@
 aliases: 
 author: Erik Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-tags: Chicken, Mains, Pecking House, Chinese-American, Spicy
+tags: Chicken, Mains, Pecking House, Chinese-American, Tried-n-True
 ---
 ### Peking House Fried Chicken
 

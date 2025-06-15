@@ -2,7 +2,7 @@
 aliases: 
 author: Eric Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-tags: Sauces, Pecking House, Chinese-American, Spicy
+tags: Sauces, Pecking House, Chinese-American, New
 ---
 ### Pecking House Chili Paste
 
