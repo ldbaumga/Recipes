@@ -50,7 +50,6 @@ Ep 2. of 'Soups so Good it can Cure Any Sickness'
 ---
 ### Finish
 
-
 ![[Hot & Sour Soup no. 1.png]]![[Hot & Sour Soup no. 2.png]]
 ![[Hot & Sour Soup no. 3.png]]
 ![[Hot & Sour Soup no. 4.png]]
