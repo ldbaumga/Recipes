@@ -8,8 +8,7 @@ pairings:
 tags:
   - Chicken
   - Mains
-  - Pecking
-  - House
+  - Pecking House
   - Chinese-American
   - Tried-n-True
 ---

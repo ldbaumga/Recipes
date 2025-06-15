@@ -4,6 +4,7 @@ author: Eric Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
 pairings:
 tags:
+  - Vegetarian
   - Sauces
   - Pecking House
   - New
