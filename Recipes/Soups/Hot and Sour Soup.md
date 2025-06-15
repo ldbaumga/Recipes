@@ -36,7 +36,6 @@ Ep 2. of 'Soups so Good it can Cure Any Sickness'
 
 ---
 ### Directions
-
 1. Soak dried wood ear mushrooms and white fungus in warm water for about 15 minutes or until soft. Slice the shiitake mushrooms, fungus, and wood ears.
 2. Mix pork strips with 1 tbsp water until absorbed, then add pinch of salt, 2 tsp neutral oil, and 1 tsp cornstarch. set aside to marinate.
 3. Slice tofu, bamboo shoots, and carrots into thin strips. Beat the egg and chop scallions for garnish.
