@@ -5,7 +5,6 @@ source: https://www.thecookingguy.com/recipes/chorizo-crema
 pairings:
   - 
 tags:
-  - Pork
   - Sauses
   - Tex-Mex
   - Sam the Cooking Guy
