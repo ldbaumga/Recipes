@@ -1,8 +1,11 @@
 ---
-aliases:
+aliases: 
 author: 
-source: 
-tags: 
+source:
+pairings:
+  - 
+tags:
+  - 
 ---
 ### {{title}}
 

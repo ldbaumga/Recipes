@@ -2,9 +2,16 @@
 aliases: 
 author: Erik Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
-tags: Chicken, Mains, Pecking House, Chinese-American, Tried-n-True
 Pairings:
-- [ ["Green Garlic Sause"] ]
+  - "[[Pecking House Green Garlic Ranch]]"
+  - "[[Pecking House Chili Paste]]"
+tags:
+  - Chicken
+  - Mains
+  - Pecking
+  - House
+  - Chinese-American
+  - Tried-n-True
 ---
 ### Peking House Fried Chicken
 
@@ -12,7 +19,7 @@ Pairings:
 
 ### Ingredients
 - [ ] 3 - 4 lbs. whole chicken, broken down with skin on [[Butchering a Chicken - 10 Piece Country Cut]]
-
+[Named::[[Pecking House Green Garlic Ranch]]]
 ##### Seasoning Mix
 - [ ] 6 tbsp | 75g kosher salt
 - [ ] 2 tablespoons granulated sugar

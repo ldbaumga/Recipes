@@ -2,7 +2,12 @@
 aliases:
 author: Jujumao
 source: https://www.youtube.com/shorts/3ynoK061yT4
-tags: Pork, Chineese, Soup, New
+Pairings:
+tags: 
+  - Pork
+  - Chineese
+  - Soup
+  - New
 ---
 ### Hot and Sour Soup
 
