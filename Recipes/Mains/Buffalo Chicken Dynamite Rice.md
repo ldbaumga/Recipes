@@ -2,13 +2,13 @@
 aliases: 
 author: John Mitzewich
 source: https://www.allrecipes.com/recipe/8539210/buffalo-chicken-dynamite-rice/
-pairings:
-  - 
+pairings: 
 tags:
   - Chicken
-  - John Mitzewich
   - American
-  - Maddy's Fave
+  - Maddys-Fave
+  - Mains
+  - Baked
 ---
 ### Buffalo Chicken Dynamite Rice
 

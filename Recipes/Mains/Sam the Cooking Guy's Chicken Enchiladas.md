@@ -7,9 +7,9 @@ pairings:
 tags:
   - Chicken
   - Mains
-  - Sam the Cooking Guy
   - Tex-Mex
   - Tried-n-True
+  - Baked
 ---
 ### Sam the Cooking Guy's Chicken Enchiladas
 

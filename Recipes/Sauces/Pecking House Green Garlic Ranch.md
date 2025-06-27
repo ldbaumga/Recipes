@@ -5,7 +5,6 @@ source: https://www.youtube.com/watch?v=ZINFIO62jRQ
 pairings:
 tags:
   - Sauces
-  - Pecking House
   - New
 ---
 ### Pecking House Green Garlic Ranch

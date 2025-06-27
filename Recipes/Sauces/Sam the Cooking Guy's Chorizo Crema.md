@@ -7,7 +7,6 @@ pairings:
 tags:
   - Sauses
   - Tex-Mex
-  - Sam the Cooking Guy
   - Tried-n-True
 ---
 ### Sam the Cooking Guy's Chorizo Crema

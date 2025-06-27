@@ -8,9 +8,9 @@ pairings:
 tags:
   - Chicken
   - Mains
-  - Pecking House
   - Chinese-American
   - Tried-n-True
+  - Deep-Fried
 ---
 ### Peking House Fried Chicken
 
