@@ -4,10 +4,10 @@ author: Eric Huang
 source: https://www.youtube.com/watch?v=ZINFIO62jRQ
 pairings:
 tags:
-	- Sauces
-	- Pecking House
-	- Chinese-American
-	- New
+  - Sauces
+  - Pecking House
+  - Chinese-American	
+  - New
 ---
 ### Pecking House Chili Paste
 
