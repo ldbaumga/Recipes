@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "66e74984c45c9249",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
             "id": "a3dec42b198ea451",
             "type": "leaf",
             "state": {
@@ -45,7 +57,8 @@
               "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -194,7 +208,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1d0192e43ce29ee",
+  "active": "66e74984c45c9249",
   "lastOpenFiles": [
     "Recipes/Mains/Pecking House Chili Fried Chicken.md",
     "Recipes/Soups/Hot and Sour Soup.md",
