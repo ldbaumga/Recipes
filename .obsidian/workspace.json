@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces/Sam the Cooking Guy's Chorizo Crema.md",
+                "file": "Recipes/Sauces/Banana Pepper Fermented Hot Sauce.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sam the Cooking Guy's Chorizo Crema"
+              "title": "Banana Pepper Fermented Hot Sauce"
             }
           },
           {
@@ -223,18 +223,23 @@
   },
   "active": "66e74984c45c9249",
   "lastOpenFiles": [
-    "Recipes/Sauces/Pecking House Green Garlic Ranch.md",
+    "Techniques/How to Lacto-Ferment Anything.md",
+    "Templates/Recipe Template.md",
+    "Recipes/Sauces/Banana Pepper Fermented Hot Sauce.md",
     "Recipes/Sauces/Pecking House Chili Paste.md",
-    "Recipes/Baking/How to Hoagie Roll.md",
+    "Techniques/Untitled.md",
     "Techniques/Butchering a Chicken - 10 Piece Country Cut.md",
+    "Recipes/Soups/attachments/Hot & Sour Soup no. 4.png",
+    "Recipes/Soups/attachments/Hot & Sour Soup no. 2.png",
+    "Recipes/Sauces/Sam the Cooking Guy's Chorizo Crema.md",
+    "Recipes/Sauces/Pecking House Green Garlic Ranch.md",
+    "Recipes/Baking/How to Hoagie Roll.md",
     "Recipes/Mains/Pecking House Chili Fried Chicken.md",
     "Recipes/Soups/Hot and Sour Soup.md",
     "Recipes/Mains/attachments/One-Pot Lemon Artichoke Chicken  and Rice.png",
     "Recipes/Mains/One Pot Lemon Artichoke Chicken and Rice.md",
     "Recipes/Mains/Sam the Cooking Guy's Chicken Enchiladas.md",
-    "Recipes/Sauces/Sam the Cooking Guy's Chorizo Crema.md",
     "Recipes/Mains/Buffalo Chicken Dynamite Rice.md",
-    "Templates/Recipe Template.md",
     "Recipes/Baking/attachments/How to Hoagie Roll.png",
     "Recipes/Baking/attachments/Pasted image 20250626225126.png",
     "Recipes/Baking/attachments",
@@ -256,9 +261,7 @@
     "Recipes/Soups",
     "Recipes",
     "Test.md",
-    "Recipes/Soups/attachments/Hot & Sour Soup no. 4.png",
     "Recipes/Soups/attachments/Hot & Sour Soup no. 3.png",
-    "Recipes/Soups/attachments/Hot & Sour Soup no. 2.png",
     "Welcome.md"
   ]
 }
