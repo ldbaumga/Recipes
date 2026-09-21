@@ -31,7 +31,8 @@ Inspiration:
 	1. Banana Peppers:
 	2. Jalapeños:
 	3. Garlic:
-2. B
+2. Drain the peppers and garlic, reserving some of the brine.
+3. Blend the peppers with 1/2 Cup white vinegar and 2 Tbs. pepper brine. Slowly add 1/4 Cup oil. Taste for seasonings.
 
 ---
 ### Finish

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Sauces/Banana Pepper Fermented Hot Sauce.md",
+                "file": "Recipes/Spices/Fire Salt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Banana Pepper Fermented Hot Sauce"
+              "title": "Fire Salt"
             }
           },
           {
@@ -223,10 +223,12 @@
   },
   "active": "66e74984c45c9249",
   "lastOpenFiles": [
-    "Recipes/Sauces/Pecking House Green Garlic Ranch.md",
-    "Recipes/Sauces/Banana Pepper Fermented Hot Sauce.md",
-    "Techniques/How to Lacto-Ferment Anything.md",
     "Templates/Recipe Template.md",
+    "Recipes/Spices/Fire Salt.md",
+    "Recipes/Sauces/Banana Pepper Fermented Hot Sauce.md",
+    "Recipes/Spices",
+    "Recipes/Sauces/Pecking House Green Garlic Ranch.md",
+    "Techniques/How to Lacto-Ferment Anything.md",
     "Recipes/Sauces/Pecking House Chili Paste.md",
     "Techniques/Untitled.md",
     "Techniques/Butchering a Chicken - 10 Piece Country Cut.md",
@@ -259,7 +261,6 @@
     "Recipes/Soups/attachments/Hot & Sour Soup no. 1.png",
     "Recipes/Soups/attachments",
     "Recipes/Soups",
-    "Recipes",
     "Test.md",
     "Recipes/Soups/attachments/Hot & Sour Soup no. 3.png",
     "Welcome.md"
